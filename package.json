@@ -1,0 +1,20 @@
+{
+  "name": "sami-developer_123_atm",
+  "version": "1.0.0",
+  "description": "A ATM machine based on Typescript and ATM machine code is 1234",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "sami_developer",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
